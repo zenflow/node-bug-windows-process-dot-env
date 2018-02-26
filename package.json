@@ -1,0 +1,27 @@
+{
+  "name": "bug-windows-process-dot-env",
+  "version": "1.0.0",
+  "description": "Reproduction repo for a bug in NodeJS",
+  "private": true,
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenflow/node-bug-windows-process-dot-env.git"
+  },
+  "keywords": [
+    "nodejs",
+    "bug"
+  ],
+  "author": {
+    "name": "Matthew Francis Brunetti",
+    "email": "zenflow87@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenflow/node-bug-windows-process-dot-env/issues"
+  },
+  "homepage": "https://github.com/zenflow/node-bug-windows-process-dot-env#readme",
+  "dependencies": {}
+}
