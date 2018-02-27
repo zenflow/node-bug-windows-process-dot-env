@@ -5,4 +5,5 @@ node_js:
   - 9
 script:
   - uname -a # Prints OS info
+  - node --version
   - npm test

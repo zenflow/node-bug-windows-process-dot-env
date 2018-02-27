@@ -9,4 +9,5 @@ install:
   - ps: Install-Product node $env:nodejs_version
 test_script:
   - ver # prints Windows version info
+  - node --version
   - npm test
